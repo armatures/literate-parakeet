@@ -1,0 +1,9 @@
+.centered {
+  margin: auto;
+  width: 400px;
+  text-align: center;
+}
+
+body {
+  width:100%;
+}
